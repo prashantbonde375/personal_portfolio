@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #f8f9fa;
+}
+
+header {
+    background-color: #f1f1f1;
+}
+
+header a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    border-radius: 8px;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+}
+
+footer {
+    background-color: #f1f1f1;
+}
+
+footer p {
+    margin: 0;
+    color: #f1eef3;
+}
+
+/* Sky blue color for h2 elements */
+h2 {
+    color: #87CEEB; /* Sky Blue */
+}
